@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "反共产主义宣言",
+  title: "反共产主义者宣言",
   description: "",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -17,13 +17,16 @@ export default defineConfig({
         link: "/acknowledgments",
       },
       {
-        text: "第一章",
-        items: [
-          {
-            text: "abc",
-            link: "/abc",
-          },
-        ],
+        text: "前言",
+        link: "/preface",
+      },
+      {
+        text: "术语定义",
+        link: "/definitions",
+      },
+      {
+        text: "第一章：静态和动态的阶级",
+        link: "/1-static-dynamic-classes",
       },
     ],
 
