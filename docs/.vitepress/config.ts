@@ -56,7 +56,7 @@ export default defineConfig({
 
     socialLinks: [
       { icon: "github", link: "https://github.com/ltucat/uncommunist" },
-      { icon: "twitter", link: "https://twitter.com/@ltucat" },
+      { icon: "twitter", link: "https://twitter.com/@ltucats" },
     ],
   },
 });
