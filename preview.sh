@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-pnpm run docs:preview
+npm run docs:preview

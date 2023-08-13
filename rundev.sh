@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-pnpm run docs:dev
+npm run docs:dev
