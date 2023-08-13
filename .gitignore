@@ -1,3 +1,4 @@
 node_modules
 setgitname.sh
 .DS_Store
+docs/.vitepress/dist

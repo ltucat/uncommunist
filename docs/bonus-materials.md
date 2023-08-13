@@ -4,7 +4,7 @@
 
 你觉得这个信息需要进一步传播吗？
 
-加入我们，了解如何共同确保毒瘤共产主义不再蔓延：
+加入我们，了解如何共同确保共产主义的毒瘤不再蔓延：
 
 [https://uncommunist.com/member](https://uncommunist.com/member)
 

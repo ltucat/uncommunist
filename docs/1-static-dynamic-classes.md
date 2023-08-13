@@ -49,15 +49,15 @@
 
 * 封建制度：固定的等级
 
-  ![feudal](./1-feudal.png)
+  ![feudal](./public/1-feudal.png)
 
 * 裙带政治：固化的政治与经济
 
-  ![crony](./2-crony.png)
+  ![crony](./public/2-crony.png)
 
 * 共产主义：固化的政治
 
-  ![communism](./3-communism.png)
+  ![communism](./public/3-communism.png)
 
 我们提出，不通过法令，而是通过能力和自由的自然力量来转变和重组社会。
 
@@ -73,7 +73,7 @@
 
 * 自由市场：充满活力、社会流动性。
 
-  ![communism](./4-capitalist.png)
+  ![communism](./public/4-capitalist.png)
 
 > 封建的财产关系已经无法与已经发展起来的生产力相适应；它们变成了如此多的枷锁。它们必须被打破；它们被打破了。
 
