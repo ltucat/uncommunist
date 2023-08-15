@@ -8,7 +8,7 @@ Aleks长期从事创业和写作，并在多个行业创立了众多公司，最
 
 他现在大部分时间都在写作、演讲、播客和思考，关注着当我们目前所处的大周期接近尾声、一个新的周期出现时，世界的本质将如何演变。
 
-请转到 [www.svet.ski/](https://www.svet.ski/) 查看更多的Aleksandar作品。
+请转到 [www.svet.ski](https://www.svet.ski) 查看更多的Aleksandar作品。
 
 
 
