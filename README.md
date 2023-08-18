@@ -16,12 +16,14 @@ npm install .
 npm run docs:dev
 ```
 
+译者本人水平有限，欢迎大家提交Pull Request修改。原书的epub版本在本仓库的books文件夹里。
+
 ## Credits
 
-* 原书的[Amazon链接](https://www.amazon.com/UnCommunist-Manifesto-Message-Responsibility-Liberty/dp/0578396300)
-* 本网站使用[vitepress](https://vitepress.dev)搭建
-* 翻译的过程中使用了[DeepL](https://deepl.com)、[ChatGPT](https://chat.openai.com)和[Claude.ai](https://claude.ai)
+* 原书的 [Amazon链接](https://www.amazon.com/UnCommunist-Manifesto-Message-Responsibility-Liberty/dp/0578396300)
+* 本网站使用 [VitePress](https://vitepress.dev) 搭建
+* 翻译过程中使用了[DeepL](https://deepl.com)、[ChatGPT](https://chat.openai.com)和[Claude.ai](https://claude.ai)
 
 ## About
 
-* [推特上关注我>>](https://twitter.com/ltucats)
+* [推特上关注我 >>](https://twitter.com/ltucats)
