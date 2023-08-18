@@ -5,7 +5,7 @@
 
 感谢作者在书的开头声明原书没有版权，并鼓励“即使盗版也可以”进行广泛传播。
 
-您可以 [点击这里开始阅读 >>](https://uncommunist.org)
+您可以通过 [访问uncommunist.org开始阅读 >>](https://uncommunist.org)
 
 也可以通过以下方式在本地阅读：
 
