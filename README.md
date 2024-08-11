@@ -26,4 +26,4 @@ npm run docs:dev
 
 ## About
 
-* [推特上关注我 >>](https://twitter.com/ltucats)
+* [推特上关注我 >>](https://twitter.com/ltu1111)
