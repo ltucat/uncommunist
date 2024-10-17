@@ -7,11 +7,8 @@ hero:
   tagline: "“自由随时可能消失，仅仅一代人的时间就足以让它灭绝。自由不是与生俱来的，不会自然而然地传承给下一代。我们必须为之奋斗，坚决捍卫，并教育下一代同样去珍惜和守护。” — 罗纳德·里根总统"
 
 features:
-- details: "<div><img src='/uncommunist-book-cover.jpg' style='float:right; width:100px; padding:5px;'/> <h2 style='padding-bottom:10px; font-size:1.4em;'><strong>《反共产主义宣言》</strong></h2> <p>作者：Aleks Svetski & Mark Moss<br/>作者声明：本书没有版权。思想并非知识产权。因此，请广泛地分享和传播本书。盗版也可以，让更多的人看到它。如果您发现了它的价值，请购买支持原书《<a href='https://www.amazon.com/UnCommunist-Manifesto-Message-Responsibility-Liberty-ebook/dp/B0B837FN63' target='_blank'>The UnCommunist Manifesto</a>》。</p></div>"
-  link: /uncommunist/acknowledgments
-  linkText: 开始阅读
-#- details: "<div><img src='/maosamerica-book-cover.jpg' style='float:right; width:100px; padding:5px;'/> <h2 style='padding-bottom:10px; font-size:1.4em;'><strong>《毛泽东式的美国》</strong></h2> <p>作者：Xi Van Fleet<br/>一位从中国文化大革命中幸存者对美国的警告：历史正在以令人不安的方式重演。</p><p>请支持购买原书《<a href='https://www.amazon.com/Maos-America-Survivors-Van-Fleet-ebook/dp/B0BWY3JV76' target='_blank'>Mao's America</a>》。</p></div>"
-#  link: /maosamerica/preface
-#  linkText: 开始阅读
+- details: "<div><img src='/uncommunist-book-cover.jpg' style='float:right; width:100px; padding:5px;'/> <h2 style='padding-bottom:10px; font-size:1.4em;'><strong>《非共产主义者宣言》</strong></h2> <p>作者：亚历山大·斯维茨基，⻢克·莫斯<br/>翻译：陶宛<br/>简介：本书要传递的是关于希望、自由和责任的信息。 马克思和恩格斯试图说服世界，一个人的价值是根据其物质财富所决定的，而无产阶级将通过对资产阶级的斗争获得解放。 本书拒绝这一观点，并声明真正的斗争是在个人自主和责任与集体主义倾向（如身份政治）之间展开的。</p></div>"
+  link: https://randpress.com
+  linkText: 查看更多
 ---
 

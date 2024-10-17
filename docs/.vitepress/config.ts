@@ -3,14 +3,18 @@ import { defineConfig } from "vitepress";
 const sidebarUncommunist = () => {
   return [
     {
-      text: "反共产主义宣言",
+      text: "非共产主义者宣言",
       items: [
+        {
+          text: "译者序",
+          link: "/translator-preface",
+        },
         {
           text: "致谢",
           link: "/acknowledgments",
         },
         {
-          text: "前言",
+          text: "序",
           link: "/preface",
         },
         {
@@ -125,13 +129,13 @@ export default defineConfig({
     nav: [
       { text: "首页", link: "/" },
       {
-        text: "反共产主义宣言",
-        link: "/uncommunist/acknowledgments",
+        text: "博客",
+        link: "https://blog.uncommunist.org",
       },
-      /*{
-        text: "毛泽东式的美国",
-        link: "/maosamerica/preface",
-      },*/
+      {
+        text: "源泉出版社",
+        link: "https://randpress.com",
+      },
     ],
 
     sidebar: {
@@ -139,9 +143,6 @@ export default defineConfig({
       "/maosamerica/": { base: "/maosamerica", items: sidebarMaosAmerica() },
     },
 
-    socialLinks: [
-      { icon: "github", link: "https://github.com/ltucat/uncommunist" },
-      { icon: "twitter", link: "https://x.com/@ltu1111" },
-    ],
+    socialLinks: [{ icon: "twitter", link: "https://x.com/@taowanusa" }],
   },
 });
